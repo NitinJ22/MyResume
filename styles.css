@@ -1,0 +1,31 @@
+body{
+  font-family: 'Cormorant Garamond', serif;
+  /* font-family: 'Alegreya SC', serif; */
+}
+
+/* Profile */
+.main-profile{
+  padding: 15px;
+}
+
+.my-image{
+  height: 160px;
+  margin-left: 40px;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  padding: 5px;
+}
+
+.contact-bar{
+  background-color: #393b44;
+  color: white;
+  text-align: center;
+}
+.social-icon {
+  margin: 10px 10px;
+}
+
+/* Resume details */
+.skill-icon{
+  margin: 2px;
+}
